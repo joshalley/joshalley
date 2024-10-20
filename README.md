@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshalley
-- 👀 I’m interested in full stack development, homelabs, and cryptocurrency.
+- 👀 I’m interested in back-end development and collecting things.
 - 📫 How to reach me contact@joshalley.xyz
 
 <!---
